@@ -3,18 +3,18 @@
 ### Манифесты:
   
 **[deploy_multitool.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/deploy_multitool.yaml)**  
-**[deploy_web.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/deploy_web.yaml)** 
-**[serv_cluster_multitool.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/serv_cluster_multitool.yaml)** 
-**[serv_cluster_web.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/serv_cluster_web.yaml)** 
-**[serv_node.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/serv_node.yaml)** 
-**[Chart.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/Chart.yaml)** 
-**[values.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/values.yaml)**  
-  
-  
-## Задание 1: Подготовить Helm-чарт для приложения
-  
-### Скриншот вывода curl
+**[deploy_web.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/deploy_web.yaml)**  
+**[serv_cluster_multitool.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/serv_cluster_multitool.yaml)**  
+**[serv_cluster_web.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/serv_cluster_web.yaml)**  
+**[serv_node.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/templates/serv_node.yaml)**  
+**[Chart.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/Chart.yaml)**  
+**[values.yaml](https://github.com/ufilin/kube_07/blob/main/netology-chart-ufilin/values.yaml)**    
 
+  
+## Задание 1: Подготовить Helm-чарт для приложения  
+  
+### Скриншот вывода curl  
+  
 <p align="center">
   <img src="kube_07-1-1.png" width="800">
 </p>
