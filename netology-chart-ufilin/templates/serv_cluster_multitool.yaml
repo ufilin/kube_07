@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Release.Name }}-multitool-cluster
+spec:
+  selector:
+    app: {{ .Release.Name }}-multitool
+  ports:
+    - name: tool
+      protocol: TCP
+      port: 9002
+      targetPort: {{ .Values.multitool.port }}
+  type: ClusterIP

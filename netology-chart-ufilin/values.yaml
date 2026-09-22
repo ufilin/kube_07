@@ -1,0 +1,10 @@
+web:
+  replicaCount: 2
+  image: nginx:1.27
+  port: 80
+
+multitool:
+  replicaCount: 2
+  image: wbitt/network-multitool:latest
+  port: 8080
+  httpPort: "8080"
